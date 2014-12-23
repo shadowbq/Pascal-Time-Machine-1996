@@ -1,20 +1,20 @@
-{    ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
-     บ                                                                  บ
-     บ            Name       : Scott MacGregor                          บ
-     บ            Class      : Computer Science II - Honors, AP         บ
-     บ            Period     : 2                                        บ
-     บ            Assignment : PG 648 N 5                               บ
-     บ            Date       : 10/30/96                                 บ
-     บ                                                                  บ
-     บ                       Program Summary                            บ
-     บ                                                                  บ
-     บ        This program creates an abstract data type. It can add,   บ
-     บ    subtract, multiply, divide, two rational numbers. It can also บ
-     บ    reduce a fraction to its lowest term.                         บ
-     บ                                                                  บ
-     บ                                                                  บ
-     บ                                                                  บ
-     ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ}
+{    รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+     ยบ                                                                  ยบ
+     ยบ            Name       : Scott MacGregor                          ยบ
+     ยบ            Class      : Computer Science II - Honors, AP         ยบ
+     ยบ            Period     : 2                                        ยบ
+     ยบ            Assignment : PG 648 N 5                               ยบ
+     ยบ            Date       : 10/30/96                                 ยบ
+     ยบ                                                                  ยบ
+     ยบ                       Program Summary                            ยบ
+     ยบ                                                                  ยบ
+     ยบ        This program creates an abstract data type. It can add,   ยบ
+     ยบ    subtract, multiply, divide, two rational numbers. It can also ยบ
+     ยบ    reduce a fraction to its lowest term.                         ยบ
+     ยบ                                                                  ยบ
+     ยบ                                                                  ยบ
+     ยบ                                                                  ยบ
+     รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ}
 Program ASDT;
   uses crt;
 
